@@ -1,4 +1,4 @@
-# Deutsch-algorithm
+# Python Implementation of Deutsch's Algorithm: Exploring Quantum Parallelism
 This GitHub repository contains a Python implementation of Deutsch's algorithm, a fundamental quantum computing algorithm that showcases quantum parallelism and provides a clear advantage over classical algorithms. Deutsch's algorithm is a precursor to more complex quantum algorithms and serves as an excellent introduction to quantum computing concepts.
 
 
